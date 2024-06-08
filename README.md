@@ -1,6 +1,6 @@
 
 ```math
-\ce{$\unicode[monospace; pointer-events: none; border: 2px solid red;]{x0000}$}
+\ce{$\unicode[pointer-events: none; border: 2px solid red;]{x0000}$}
 
 
 
