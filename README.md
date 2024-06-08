@@ -1,5 +1,6 @@
-<body>
-<h1 align="center">exhq</h1>
-<h3 align="center">competitive shitposter, programmer, and progamer </h3>
 
-visit https://exhq.dev to make me happy :3
+```math
+\ce{$\unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover;  border: 2px solid red;]{x0000}$}
+
+
+
